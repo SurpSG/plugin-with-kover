@@ -17,7 +17,6 @@ dependencies {
 
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.8.1")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.8.1")
-//    testRuntimeOnly("org.jetbrains.kotlinx:kover-gradle-plugin:0.7.5")
     testRuntimeOnly("org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.21")
 }
 
